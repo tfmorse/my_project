@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="urn:articulate:storyline:6FvR2BXn5kp" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Empathy Training for Call Centers v0.2</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="urn:articulate:storyline:6FvR2BXn5kp/5hMKZSivNEE" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Empathy Training for Call Centers</name>
+			<description lang="und">Empathy Training for Call Centers</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6FvR2BXn5kp/62Uo39Bh3Lr" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Objectives</name>
+			<description lang="und">Objectives</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6FvR2BXn5kp/5fGXarsAynE" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introduction</name>
+			<description lang="und">Introduction</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6FvR2BXn5kp/6JiY0BXzr2H" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introduction Continued</name>
+			<description lang="und">Introduction Continued</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6FvR2BXn5kp/6RNLjmyMbpQ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Active Listening</name>
+			<description lang="und">Active Listening</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6FvR2BXn5kp/5fLuTkYTHEx" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">SCENARIO STARTER</name>
+			<description lang="und">SCENARIO STARTER</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6FvR2BXn5kp/6eINvkU3H6I" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Scenario 1</name>
+			<description lang="und">Scenario 1</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6FvR2BXn5kp/5w2VW7jdg5l" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Scenario 1</name>
+			<description lang="und">Scenario 1</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6FvR2BXn5kp/6TE0ODg0mTm" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Scenario 1</name>
+			<description lang="und">Scenario 1</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6FvR2BXn5kp/6cJOg9fj9JA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Scenario 1</name>
+			<description lang="und">Scenario 1</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6FvR2BXn5kp/6RhtDYT9Prg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Scenario 1</name>
+			<description lang="und">Scenario 1</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6FvR2BXn5kp/5oMGKfF418L" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Scenario 1</name>
+			<description lang="und">Scenario 1</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6FvR2BXn5kp/6WoD5oYpt5R" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Summary</name>
+			<description lang="und">Summary</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6FvR2BXn5kp/6kGQH70pF3o" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">EXIT COURSE</name>
+			<description lang="und">EXIT COURSE</description>
+		</activity>
+	</activities>
+</tincan>
